@@ -1,0 +1,578 @@
+Source,Target,Label,Type,Weight
+Vallby,Skälby,Burglary,undirected,3
+Hammarby,Erikslund,Drunk Driving,undirected,3
+Gideonsberg,Hammarby,Drunk Driving,undirected,3
+Gideonsberg,Erikslund,Drunk Driving,undirected,3
+Stenby,Erikslund,Shoplifting,undirected,3
+Erikslund,City,Shoplifting,undirected,3
+Bäckby,Skälby,Burglary,undirected,2
+Rocklunda,Skälby,Burglary,undirected,2
+Rocklunda,Bäckby,Burglary,undirected,2
+Hökåsen,Rocklunda,Burglary,undirected,2
+Hökåsen,Skälby,Burglary,undirected,2
+Hökåsen,Bäckby,Burglary,undirected,2
+Malmaberg,Bäckby,Burglary,undirected,2
+Malmaberg,Skälby,Burglary,undirected,2
+Malmaberg,Rocklunda,Burglary,undirected,2
+Malmaberg,Hökåsen,Burglary,undirected,2
+City,Hökåsen,Burglary,undirected,2
+City,Rocklunda,Burglary,undirected,2
+City,Skälby,Burglary,undirected,2
+City,Bäckby,Burglary,undirected,2
+City,Malmaberg,Burglary,undirected,2
+Vallby,Malmaberg,Burglary,undirected,2
+Vallby,Rocklunda,Burglary,undirected,2
+Vallby,City,Burglary,undirected,2
+Haga,Vallby,Burglary,undirected,2
+Haga,Malmaberg,Burglary,undirected,2
+Haga,Bäckby,Burglary,undirected,2
+Haga,Skälby,Burglary,undirected,2
+Haga,Rocklunda,Burglary,undirected,2
+Haga,Hökåsen,Burglary,undirected,2
+Haga,City,Burglary,undirected,2
+Erikslund,Gränsta,Drunk Driving,undirected,2
+City,Erikslund,Drunk Driving,undirected,2
+City,Gränsta,Drunk Driving,undirected,2
+Hammarby,City,Drunk Driving,undirected,2
+Hammarby,Gränsta,Drunk Driving,undirected,2
+Gideonsberg,City,Drunk Driving,undirected,2
+Gideonsberg,Gränsta,Drunk Driving,undirected,2
+VästeråsO,City,Narcotic Offence,undirected,2
+Kristiansborg/Karlsdal,City,Narcotic Offence,undirected,2
+Kristiansborg/Karlsdal,VästeråsO,Narcotic Offence,undirected,2
+Gideonsberg,Kristiansborg/Karlsdal,Narcotic Offence,undirected,2
+Gideonsberg,City,Narcotic Offence,undirected,2
+Gideonsberg,VästeråsO,Narcotic Offence,undirected,2
+Centrum,Vallby,Shoplifting,undirected,2
+City,Vallby,Shoplifting,undirected,2
+City,Centrum,Shoplifting,undirected,2
+Stenby,Centrum,Shoplifting,undirected,2
+Stenby,City,Shoplifting,undirected,2
+Stenby,Vallby,Shoplifting,undirected,2
+Erikslund,Vallby,Shoplifting,undirected,2
+Erikslund,Centrum,Shoplifting,undirected,2
+Centrum,VästeråsO,Theft,undirected,2
+Brottberga,VästeråsO,Theft,undirected,2
+Brottberga,Centrum,Theft,undirected,2
+City,Centrum,Theft,undirected,2
+City,VästeråsO,Theft,undirected,2
+City,Brotterga,Theft,undirected,2
+Malmaberg,Råby,Violance,undirected,1
+VästeråsO,Råby,Violance,undirected,1
+Centrum,Råby,Violance,undirected,1
+Centrum,VästeråsO,Violance,undirected,1
+Centrum,Malmaberg,Violance,undirected,1
+Frösåker,Malmaberg,Violance,undirected,1
+Frösåker,VästeråsO,Violance,undirected,1
+Frösåker,Råby,Violance,undirected,1
+Frösåker,Centrum,Violance,undirected,1
+Hamre,Frösåker,Violance,undirected,1
+Hamre,Centrum,Violance,undirected,1
+Hamre,Råby,Violance,undirected,1
+Hamre,VästeråsO,Violance,undirected,1
+Hamre,Malmaberg,Violance,undirected,1
+Skälby,Hamre,Burglary,undirected,1
+Östermalm,Skälby,Burglary,undirected,1
+Östermalm,Hamre,Burglary,undirected,1
+Brandthovda,Hamre,Burglary,undirected,1
+Brandthovda,Östermalm,Burglary,undirected,1
+Brandthovda,Skälby,Burglary,undirected,1
+Bäckby,Östermalm,Burglary,undirected,1
+Bäckby,Hamre,Burglary,undirected,1
+Bäckby,Brandthovda,Burglary,undirected,1
+Gryta,Skälby,Burglary,undirected,1
+Gryta,Hamre,Burglary,undirected,1
+Gryta,Östermalm,Burglary,undirected,1
+Gryta,Brandthovda,Burglary,undirected,1
+Gryta,Bäckby,Burglary,undirected,1
+Norrleden,Bäckby,Burglary,undirected,1
+Norrleden,Gryta,Burglary,undirected,1
+Norrleden,Brandthovda,Burglary,undirected,1
+Norrleden,Östermalm,Burglary,undirected,1
+Norrleden,Hamre,Burglary,undirected,1
+Norrleden,Skälby,Burglary,undirected,1
+Rocklunda,Norrleden,Burglary,undirected,1
+Rocklunda,Hamre,Burglary,undirected,1
+Rocklunda,Östermalm,Burglary,undirected,1
+Rocklunda,Brandthovda,Burglary,undirected,1
+Rocklunda,Gryta,Burglary,undirected,1
+Hammarby,Bäckby,Burglary,undirected,1
+Hammarby,Gryta,Burglary,undirected,1
+Hammarby,Brandthovda,Burglary,undirected,1
+Hammarby,Östermalm,Burglary,undirected,1
+Hammarby,Hamre,Burglary,undirected,1
+Hammarby,Norrleden,Burglary,undirected,1
+Hammarby,Skälby,Burglary,undirected,1
+Hammarby,Rocklunda,Burglary,undirected,1
+Hökåsen,Norrleden,Burglary,undirected,1
+Hökåsen,Hamre,Burglary,undirected,1
+Hökåsen,Östermalm,Burglary,undirected,1
+Hökåsen,Brandthovda,Burglary,undirected,1
+Hökåsen,Gryta,Burglary,undirected,1
+Hökåsen,Hammarby,Burglary,undirected,1
+Malmaberg,Hammarby,Burglary,undirected,1
+Malmaberg,Gryta,Burglary,undirected,1
+Malmaberg,Brandthovda,Burglary,undirected,1
+Malmaberg,Östermalm,Burglary,undirected,1
+Malmaberg,Hamre,Burglary,undirected,1
+Malmaberg,Norrleden,Burglary,undirected,1
+City,Norrleden,Burglary,undirected,1
+City,Hamre,Burglary,undirected,1
+City,Östermalm,Burglary,undirected,1
+City,Brandthovda,Burglary,undirected,1
+City,Gryta,Burglary,undirected,1
+City,Hammarby,Burglary,undirected,1
+Vallby,Hammarby,Burglary,undirected,1
+Vallby,Bäckby,Burglary,undirected,1
+Vallby,Gryta,Burglary,undirected,1
+Vallby,Brandthovda,Burglary,undirected,1
+Vallby,Östermalm,Burglary,undirected,1
+Vallby,Hamre,Burglary,undirected,1
+Vallby,Norrleden,Burglary,undirected,1
+Vallby,Hökåsen,Burglary,undirected,1
+Råby,City,Burglary,undirected,1
+Råby,Hökåsen,Burglary,undirected,1
+Råby,Rocklunda,Burglary,undirected,1
+Råby,Skälby,Burglary,undirected,1
+Råby,Norrleden,Burglary,undirected,1
+Råby,Hamre,Burglary,undirected,1
+Råby,Östermalm,Burglary,undirected,1
+Råby,Brandthovda,Burglary,undirected,1
+Råby,Gryta,Burglary,undirected,1
+Råby,Bäckby,Burglary,undirected,1
+Råby,Hammarby,Burglary,undirected,1
+Råby,Malmaberg,Burglary,undirected,1
+Råby,Vallby,Burglary,undirected,1
+Erikslund,Vallby,Burglary,undirected,1
+Erikslund,Malmaberg,Burglary,undirected,1
+Erikslund,Hammarby,Burglary,undirected,1
+Erikslund,Bäckby,Burglary,undirected,1
+Erikslund,Gryta,Burglary,undirected,1
+Erikslund,Brandthovda,Burglary,undirected,1
+Erikslund,Östermalm,Burglary,undirected,1
+Erikslund,Hamre,Burglary,undirected,1
+Erikslund,Norrleden,Burglary,undirected,1
+Erikslund,Skälby,Burglary,undirected,1
+Erikslund,Rocklunda,Burglary,undirected,1
+Erikslund,Hökåsen,Burglary,undirected,1
+Erikslund,City,Burglary,undirected,1
+Erikslund,Råby,Burglary,undirected,1
+Skallberget/Vega,Råby,Burglary,undirected,1
+Skallberget/Vega,City,Burglary,undirected,1
+Skallberget/Vega,Hökåsen,Burglary,undirected,1
+Skallberget/Vega,Rocklunda,Burglary,undirected,1
+Skallberget/Vega,Skälby,Burglary,undirected,1
+Skallberget/Vega,Norrleden,Burglary,undirected,1
+Skallberget/Vega,Hamre,Burglary,undirected,1
+Skallberget/Vega,Östermalm,Burglary,undirected,1
+Skallberget/Vega,Brandthovda,Burglary,undirected,1
+Skallberget/Vega,Gryta,Burglary,undirected,1
+Skallberget/Vega,Bäckby,Burglary,undirected,1
+Skallberget/Vega,Hammarby,Burglary,undirected,1
+Skallberget/Vega,Malmaberg,Burglary,undirected,1
+Skallberget/Vega,Vallby,Burglary,undirected,1
+Skallberget/Vega,Erikslund,Burglary,undirected,1
+Örtagården,Erikslund,Burglary,undirected,1
+Örtagården,Vallby,Burglary,undirected,1
+Örtagården,Malmaberg,Burglary,undirected,1
+Örtagården,Hammarby,Burglary,undirected,1
+Örtagården,Bäckby,Burglary,undirected,1
+Örtagården,Gryta,Burglary,undirected,1
+Örtagården,Brandthovda,Burglary,undirected,1
+Örtagården,Östermalm,Burglary,undirected,1
+Örtagården,Hamre,Burglary,undirected,1
+Örtagården,Norrleden,Burglary,undirected,1
+Örtagården,Skälby,Burglary,undirected,1
+Örtagården,Rocklunda,Burglary,undirected,1
+Örtagården,Hökåsen,Burglary,undirected,1
+Örtagården,City,Burglary,undirected,1
+Örtagården,Råby,Burglary,undirected,1
+Örtagården,Skallberget/Vega,Burglary,undirected,1
+Skiljebo,Skallberget/Vega,Burglary,undirected,1
+Skiljebo,Råby,Burglary,undirected,1
+Skiljebo,City,Burglary,undirected,1
+Skiljebo,Hökåsen,Burglary,undirected,1
+Skiljebo,Rocklunda,Burglary,undirected,1
+Skiljebo,Skälby,Burglary,undirected,1
+Skiljebo,Norrleden,Burglary,undirected,1
+Skiljebo,Hamre,Burglary,undirected,1
+Skiljebo,Östermalm,Burglary,undirected,1
+Skiljebo,Brandthovda,Burglary,undirected,1
+Skiljebo,Gryta,Burglary,undirected,1
+Skiljebo,Bäckby,Burglary,undirected,1
+Skiljebo,Hammarby,Burglary,undirected,1
+Skiljebo,Malmaberg,Burglary,undirected,1
+Skiljebo,Vallby,Burglary,undirected,1
+Skiljebo,Erikslund,Burglary,undirected,1
+Skiljebo,Örtagården,Burglary,undirected,1
+Haga,Örtagården,Burglary,undirected,1
+Haga,Erikslund,Burglary,undirected,1
+Haga,Hammarby,Burglary,undirected,1
+Haga,Gryta,Burglary,undirected,1
+Haga,Brandthovda,Burglary,undirected,1
+Haga,Östermalm,Burglary,undirected,1
+Haga,Hamre,Burglary,undirected,1
+Haga,Norrleden,Burglary,undirected,1
+Haga,Råby,Burglary,undirected,1
+Haga,Skallberget/Vega,Burglary,undirected,1
+Haga,Skiljebo,Burglary,undirected,1
+Stohagen/Spantgatan,Skiljebo,Burglary,undirected,1
+Stohagen/Spantgatan,Skallberget/Vega,Burglary,undirected,1
+Stohagen/Spantgatan,Råby,Burglary,undirected,1
+Stohagen/Spantgatan,City,Burglary,undirected,1
+Stohagen/Spantgatan,Hökåsen,Burglary,undirected,1
+Stohagen/Spantgatan,Rocklunda,Burglary,undirected,1
+Stohagen/Spantgatan,Skälby,Burglary,undirected,1
+Stohagen/Spantgatan,Norrleden,Burglary,undirected,1
+Stohagen/Spantgatan,Hamre,Burglary,undirected,1
+Stohagen/Spantgatan,Östermalm,Burglary,undirected,1
+Stohagen/Spantgatan,Brandthovda,Burglary,undirected,1
+Stohagen/Spantgatan,Gryta,Burglary,undirected,1
+Stohagen/Spantgatan,Bäckby,Burglary,undirected,1
+Stohagen/Spantgatan,Hammarby,Burglary,undirected,1
+Stohagen/Spantgatan,Malmaberg,Burglary,undirected,1
+Stohagen/Spantgatan,Vallby,Burglary,undirected,1
+Stohagen/Spantgatan,Erikslund,Burglary,undirected,1
+Stohagen/Spantgatan,Örtagården,Burglary,undirected,1
+Stohagen/Spantgatan,Haga,Burglary,undirected,1
+Freja,Haga,Burglary,undirected,1
+Freja,Örtagården,Burglary,undirected,1
+Freja,Erikslund,Burglary,undirected,1
+Freja,Vallby,Burglary,undirected,1
+Freja,Malmaberg,Burglary,undirected,1
+Freja,Hammarby,Burglary,undirected,1
+Freja,Bäckby,Burglary,undirected,1
+Freja,Gryta,Burglary,undirected,1
+Freja,Brandthovda,Burglary,undirected,1
+Freja,Östermalm,Burglary,undirected,1
+Freja,Hamre,Burglary,undirected,1
+Freja,Norrleden,Burglary,undirected,1
+Freja,Skälby,Burglary,undirected,1
+Freja,Rocklunda,Burglary,undirected,1
+Freja,Hökåsen,Burglary,undirected,1
+Freja,City,Burglary,undirected,1
+Freja,Råby,Burglary,undirected,1
+Freja,Skallberget/Vega,Burglary,undirected,1
+Freja,Skiljebo,Burglary,undirected,1
+Freja,Stohagen/Spantgatan,Burglary,undirected,1
+Rönnby,Stohagen/Spantgatan,Burglary,undirected,1
+Rönnby,Skiljebo,Burglary,undirected,1
+Rönnby,Skallberget/Vega,Burglary,undirected,1
+Rönnby,Råby,Burglary,undirected,1
+Rönnby,City,Burglary,undirected,1
+Rönnby,Hökåsen,Burglary,undirected,1
+Rönnby,Rocklunda,Burglary,undirected,1
+Rönnby,Skälby,Burglary,undirected,1
+Rönnby,Norrleden,Burglary,undirected,1
+Rönnby,Hamre,Burglary,undirected,1
+Rönnby,Östermalm,Burglary,undirected,1
+Rönnby,Brandthovda,Burglary,undirected,1
+Rönnby,Gryta,Burglary,undirected,1
+Rönnby,Bäckby,Burglary,undirected,1
+Rönnby,Hammarby,Burglary,undirected,1
+Rönnby,Malmaberg,Burglary,undirected,1
+Rönnby,Vallby,Burglary,undirected,1
+Rönnby,Erikslund,Burglary,undirected,1
+Rönnby,Örtagården,Burglary,undirected,1
+Rönnby,Haga,Burglary,undirected,1
+Rönnby,Freja,Burglary,undirected,1
+VästeråsO,,Drug Driving,undirected,1
+Gränsta,Tillberga,Drunk Driving,undirected,1
+Gränsta,Jakobsberg,Drunk Driving,undirected,1
+Jakobsberg,Tillberga,Drunk Driving,undirected,1
+Erikslund,Tillberga,Drunk Driving,undirected,1
+Erikslund,Jakobsberg,Drunk Driving,undirected,1
+Centrum,Gränsta,Drunk Driving,undirected,1
+Centrum,Tillberga,Drunk Driving,undirected,1
+Centrum,Erikslund,Drunk Driving,undirected,1
+Centrum,Jakobsberg,Drunk Driving,undirected,1
+City,Jakobsberg,Drunk Driving,undirected,1
+City,Centrum,Drunk Driving,undirected,1
+City,Tillberga,Drunk Driving,undirected,1
+Vallby,Gränsta,Drunk Driving,undirected,1
+Vallby,Tillberga,Drunk Driving,undirected,1
+Vallby,Centrum,Drunk Driving,undirected,1
+Vallby,Erikslund,Drunk Driving,undirected,1
+Vallby,Jakobsberg,Drunk Driving,undirected,1
+Vallby,City,Drunk Driving,undirected,1
+Blåsbo,City,Drunk Driving,undirected,1
+Blåsbo,Centrum,Drunk Driving,undirected,1
+Blåsbo,Jakobsberg,Drunk Driving,undirected,1
+Blåsbo,Erikslund,Drunk Driving,undirected,1
+Blåsbo,Tillberga,Drunk Driving,undirected,1
+Blåsbo,Gränsta,Drunk Driving,undirected,1
+Blåsbo,Vallby,Drunk Driving,undirected,1
+Bäckby,Vallby,Drunk Driving,undirected,1
+Bäckby,Gränsta,Drunk Driving,undirected,1
+Bäckby,Tillberga,Drunk Driving,undirected,1
+Bäckby,Erikslund,Drunk Driving,undirected,1
+Bäckby,Jakobsberg,Drunk Driving,undirected,1
+Bäckby,Centrum,Drunk Driving,undirected,1
+Bäckby,City,Drunk Driving,undirected,1
+Bäckby,Blåsbo,Drunk Driving,undirected,1
+Hammarby,Blåsbo,Drunk Driving,undirected,1
+Hammarby,Centrum,Drunk Driving,undirected,1
+Hammarby,Jakobsberg,Drunk Driving,undirected,1
+Hammarby,Tillberga,Drunk Driving,undirected,1
+Hammarby,Vallby,Drunk Driving,undirected,1
+Hammarby,Bäckby,Drunk Driving,undirected,1
+Haga,Bäckby,Drunk Driving,undirected,1
+Haga,Vallby,Drunk Driving,undirected,1
+Haga,Gränsta,Drunk Driving,undirected,1
+Haga,Tillberga,Drunk Driving,undirected,1
+Haga,Erikslund,Drunk Driving,undirected,1
+Haga,Jakobsberg,Drunk Driving,undirected,1
+Haga,Centrum,Drunk Driving,undirected,1
+Haga,City,Drunk Driving,undirected,1
+Haga,Blåsbo,Drunk Driving,undirected,1
+Haga,Hammarby,Drunk Driving,undirected,1
+Gideonsberg,Blåsbo,Drunk Driving,undirected,1
+Gideonsberg,Centrum,Drunk Driving,undirected,1
+Gideonsberg,Jakobsberg,Drunk Driving,undirected,1
+Gideonsberg,Tillberga,Drunk Driving,undirected,1
+Gideonsberg,Vallby,Drunk Driving,undirected,1
+Gideonsberg,Bäckby,Drunk Driving,undirected,1
+Gideonsberg,Haga,Drunk Driving,undirected,1
+Skultuna,Haga,Drunk Driving,undirected,1
+Skultuna,Bäckby,Drunk Driving,undirected,1
+Skultuna,Vallby,Drunk Driving,undirected,1
+Skultuna,Gränsta,Drunk Driving,undirected,1
+Skultuna,Tillberga,Drunk Driving,undirected,1
+Skultuna,Erikslund,Drunk Driving,undirected,1
+Skultuna,Jakobsberg,Drunk Driving,undirected,1
+Skultuna,Centrum,Drunk Driving,undirected,1
+Skultuna,City,Drunk Driving,undirected,1
+Skultuna,Blåsbo,Drunk Driving,undirected,1
+Skultuna,Hammarby,Drunk Driving,undirected,1
+Skultuna,Gideonsberg,Drunk Driving,undirected,1
+Råby,Gideonsberg,Drunk Driving,undirected,1
+Råby,Hammarby,Drunk Driving,undirected,1
+Råby,Blåsbo,Drunk Driving,undirected,1
+Råby,City,Drunk Driving,undirected,1
+Råby,Centrum,Drunk Driving,undirected,1
+Råby,Jakobsberg,Drunk Driving,undirected,1
+Råby,Erikslund,Drunk Driving,undirected,1
+Råby,Tillberga,Drunk Driving,undirected,1
+Råby,Gränsta,Drunk Driving,undirected,1
+Råby,Vallby,Drunk Driving,undirected,1
+Råby,Bäckby,Drunk Driving,undirected,1
+Råby,Haga,Drunk Driving,undirected,1
+Råby,Skultuna,Drunk Driving,undirected,1
+VästeråsO,Skultuna,Drunk Driving,undirected,1
+VästeråsO,Haga,Drunk Driving,undirected,1
+VästeråsO,Bäckby,Drunk Driving,undirected,1
+VästeråsO,Vallby,Drunk Driving,undirected,1
+VästeråsO,Gränsta,Drunk Driving,undirected,1
+VästeråsO,Tillberga,Drunk Driving,undirected,1
+VästeråsO,Erikslund,Drunk Driving,undirected,1
+VästeråsO,Jakobsberg,Drunk Driving,undirected,1
+VästeråsO,Centrum,Drunk Driving,undirected,1
+VästeråsO,City,Drunk Driving,undirected,1
+VästeråsO,Blåsbo,Drunk Driving,undirected,1
+VästeråsO,Hammarby,Drunk Driving,undirected,1
+VästeråsO,Gideonsberg,Drunk Driving,undirected,1
+VästeråsO,Råby,Drunk Driving,undirected,1
+Hälla,Råby,Drunk Driving,undirected,1
+Hälla,Gideonsberg,Drunk Driving,undirected,1
+Hälla,Hammarby,Drunk Driving,undirected,1
+Hälla,Blåsbo,Drunk Driving,undirected,1
+Hälla,City,Drunk Driving,undirected,1
+Hälla,Centrum,Drunk Driving,undirected,1
+Hälla,Jakobsberg,Drunk Driving,undirected,1
+Hälla,Erikslund,Drunk Driving,undirected,1
+Hälla,Tillberga,Drunk Driving,undirected,1
+Hälla,Gränsta,Drunk Driving,undirected,1
+Hälla,Vallby,Drunk Driving,undirected,1
+Hälla,Bäckby,Drunk Driving,undirected,1
+Hälla,Haga,Drunk Driving,undirected,1
+Hälla,Skultuna,Drunk Driving,undirected,1
+Hälla,VästeråsO,Drunk Driving,undirected,1
+Kviksund,VästeråsO,Drunk Driving,undirected,1
+Kviksund,Skultuna,Drunk Driving,undirected,1
+Kviksund,Haga,Drunk Driving,undirected,1
+Kviksund,Bäckby,Drunk Driving,undirected,1
+Kviksund,Vallby,Drunk Driving,undirected,1
+Kviksund,Gränsta,Drunk Driving,undirected,1
+Kviksund,Tillberga,Drunk Driving,undirected,1
+Kviksund,Erikslund,Drunk Driving,undirected,1
+Kviksund,Jakobsberg,Drunk Driving,undirected,1
+Kviksund,Centrum,Drunk Driving,undirected,1
+Kviksund,City,Drunk Driving,undirected,1
+Kviksund,Blåsbo,Drunk Driving,undirected,1
+Kviksund,Hammarby,Drunk Driving,undirected,1
+Kviksund,Gideonsberg,Drunk Driving,undirected,1
+Kviksund,Råby,Drunk Driving,undirected,1
+Kviksund,Hälla,Drunk Driving,undirected,1
+Framnäs,Hälla,Drunk Driving,undirected,1
+Framnäs,Råby,Drunk Driving,undirected,1
+Framnäs,Gideonsberg,Drunk Driving,undirected,1
+Framnäs,Hammarby,Drunk Driving,undirected,1
+Framnäs,Blåsbo,Drunk Driving,undirected,1
+Framnäs,City,Drunk Driving,undirected,1
+Framnäs,Centrum,Drunk Driving,undirected,1
+Framnäs,Jakobsberg,Drunk Driving,undirected,1
+Framnäs,Erikslund,Drunk Driving,undirected,1
+Framnäs,Tillberga,Drunk Driving,undirected,1
+Framnäs,Gränsta,Drunk Driving,undirected,1
+Framnäs,Vallby,Drunk Driving,undirected,1
+Framnäs,Bäckby,Drunk Driving,undirected,1
+Framnäs,Haga,Drunk Driving,undirected,1
+Framnäs,Skultuna,Drunk Driving,undirected,1
+Framnäs,VästeråsO,Drunk Driving,undirected,1
+Framnäs,Kviksund,Drunk Driving,undirected,1
+Enhagen/Ekbacken,,Environmental Crime,undirected,1
+Centrum,,Fraud,Undirected,1
+Klockartorpet,,Molestation,undirected,1
+Pettersberg,VästeråsO,Narcotic Offence,undirected,1
+Pettersberg,City,Narcotic Offence,undirected,1
+Oxbacken,City,Narcotic Offence,undirected,1
+Oxbacken,VästeråsO,Narcotic Offence,undirected,1
+Oxbacken,Vasagatan,Narcotic Offence,undirected,1
+Oxbacken,Pettersberg,Narcotic Offence,undirected,1
+Loviseberg,Pettersberg,Narcotic Offence,undirected,1
+Loviseberg,Vasagatan,Narcotic Offence,undirected,1
+Loviseberg,VästeråsO,Narcotic Offence,undirected,1
+Loviseberg,City,Narcotic Offence,undirected,1
+Loviseberg,Oxbacken,Narcotic Offence,undirected,1
+Kristiansborg/Karlsdal,Oxbacken,Narcotic Offence,undirected,1
+Kristiansborg/Karlsdal,Vasagatan,Narcotic Offence,undirected,1
+Kristiansborg/Karlsdal,Pettersberg,Narcotic Offence,undirected,1
+Kristiansborg/Karlsdal,Loviseberg,Narcotic Offence,undirected,1
+Centrum,Loviseberg,Narcotic Offence,undirected,1
+Centrum,Pettersberg,Narcotic Offence,undirected,1
+Centrum,Vasagatan,Narcotic Offence,undirected,1
+Centrum,VästeråsO,Narcotic Offence,undirected,1
+Centrum,City,Narcotic Offence,undirected,1
+Centrum,Oxbacken,Narcotic Offence,undirected,1
+Centrum,Kristiansborg/Karlsdal,Narcotic Offence,undirected,1
+Gideonsberg,Oxbacken,Narcotic Offence,undirected,1
+Gideonsberg,Vasagatan,Narcotic Offence,undirected,1
+Gideonsberg,Pettersberg,Narcotic Offence,undirected,1
+Gideonsberg,Loviseberg,Narcotic Offence,undirected,1
+Gideonsberg,Centrum,Narcotic Offence,undirected,1
+Råby,Centrum,Narcotic Offence,undirected,1
+Råby,Loviseberg,Narcotic Offence,undirected,1
+Råby,Pettersberg,Narcotic Offence,undirected,1
+Råby,Vasagatan,Narcotic Offence,undirected,1
+Råby,VästeråsO,Narcotic Offence,undirected,1
+Råby,City,Narcotic Offence,undirected,1
+Råby,Oxbacken,Narcotic Offence,undirected,1
+Råby,Kristiansborg/Karlsdal,Narcotic Offence,undirected,1
+Råby,Gideonsberg,Narcotic Offence,undirected,1
+Hälla,Gideonsberg,Narcotic Offence,undirected,1
+Hälla,Kristiansborg/Karlsdal,Narcotic Offence,undirected,1
+Hälla,Oxbacken,Narcotic Offence,undirected,1
+Hälla,City,Narcotic Offence,undirected,1
+Hälla,VästeråsO,Narcotic Offence,undirected,1
+Hälla,Vasagatan,Narcotic Offence,undirected,1
+Hälla,Pettersberg,Narcotic Offence,undirected,1
+Hälla,Loviseberg,Narcotic Offence,undirected,1
+Hälla,Centrum,Narcotic Offence,undirected,1
+Hälla,Råby,Narcotic Offence,undirected,1
+Vallby,Råby,Narcotic Offence,undirected,1
+Vallby,Centrum,Narcotic Offence,undirected,1
+Vallby,Loviseberg,Narcotic Offence,undirected,1
+Vallby,Pettersberg,Narcotic Offence,undirected,1
+Vallby,Vasagatan,Narcotic Offence,undirected,1
+Vallby,VästeråsO,Narcotic Offence,undirected,1
+Vallby,City,Narcotic Offence,undirected,1
+Vallby,Oxbacken,Narcotic Offence,undirected,1
+Vallby,Kristiansborg/Karlsdal,Narcotic Offence,undirected,1
+Vallby,Gideonsberg,Narcotic Offence,undirected,1
+Vallby,Hälla,Narcotic Offence,undirected,1
+Bäckby,City,Robbery,undirected,1
+Skallberget/Vega,City,Robbery,undirected,1
+Skallberget/Vega,Bäckby,Robbery,undirected,1
+Nordenby,Bäckby,Robbery,undirected,1
+Nordenby,City,Robbery,undirected,1
+Nordenby,Skallberget/Vega,Robbery,undirected,1
+VästeråsO,Skallberget/Vega,Robbery,undirected,1
+VästeråsO,City,Robbery,undirected,1
+VästeråsO,Bäckby,Robbery,undirected,1
+VästeråsO,Nordenby,Robbery,undirected,1
+Vallby,Nordenby,Robbery,undirected,1
+Vallby,Bäckby,Robbery,undirected,1
+Vallby,City,Robbery,undirected,1
+Vallby,Skallberget/Vega,Robbery,undirected,1
+Vallby,VästeråsO,Robbery,undirected,1
+Hammarby,VästeråsO,Robbery,undirected,1
+Hammarby,Skallberget/Vega,Robbery,undirected,1
+Hammarby,City,Robbery,undirected,1
+Hammarby,Bäckby,Robbery,undirected,1
+Hammarby,Nordenby,Robbery,undirected,1
+Hammarby,Vallby,Robbery,undirected,1
+Viksäng,Vallby,Robbery,undirected,1
+Viksäng,Nordenby,Robbery,undirected,1
+Viksäng,Bäckby,Robbery,undirected,1
+Viksäng,City,Robbery,undirected,1
+Viksäng,Skallberget/Vega,Robbery,undirected,1
+Viksäng,VästeråsO,Robbery,undirected,1
+Viksäng,Hammarby,Robbery,undirected,1
+Hälla,Vallby,Shoplifting,undirected,1
+Sjöhagen,Hälla,Shoplifting,undirected,1
+Sjöhagen,Vallby,Shoplifting,undirected,1
+Centrum,Sjöhagen,Shoplifting,undirected,1
+Centrum,Hälla,Shoplifting,undirected,1
+City,Hälla,Shoplifting,undirected,1
+City,Sjöhagen,Shoplifting,undirected,1
+Stenby,Sjöhagen,Shoplifting,undirected,1
+Stenby,Hälla,Shoplifting,undirected,1
+Erikslund,Hälla,Shoplifting,undirected,1
+Erikslund,Sjöhagen,Shoplifting,undirected,1
+VästeråsO,Bäckby,Theft,undirected,1
+Jakobsberg,VästeråsO,Theft,undirected,1
+Jakobsberg,Bäckby,Theft,undirected,1
+Centrum,Bäckby,Theft,undirected,1
+Centrum,Jakobsberg,Theft,undirected,1
+Brottberga,Jakobsberg,Theft,undirected,1
+Brottberga,Bäckby,Theft,undirected,1
+City,Bäckby,Theft,undirected,1
+City,Jakobsberg,Theft,undirected,1
+Vetterstorp,Brotterga,Theft,undirected,1
+Vetterstorp,VästeråsO,Theft,undirected,1
+Vetterstorp,Jakobsberg,Theft,undirected,1
+Vetterstorp,Bäckby,Theft,undirected,1
+Vetterstorp,Centrum,Theft,undirected,1
+Vetterstorp,City,Theft,undirected,1
+Råby,City,Theft,undirected,1
+Råby,Centrum,Theft,undirected,1
+Råby,Bäckby,Theft,undirected,1
+Råby,Jakobsberg,Theft,undirected,1
+Råby,VästeråsO,Theft,undirected,1
+Råby,Brotterga,Theft,undirected,1
+Råby,Vetterstorp,Theft,undirected,1
+Nordanby,Vetterstorp,Theft,undirected,1
+Nordanby,Brotterga,Theft,undirected,1
+Nordanby,VästeråsO,Theft,undirected,1
+Nordanby,Jakobsberg,Theft,undirected,1
+Nordanby,Bäckby,Theft,undirected,1
+Nordanby,Centrum,Theft,undirected,1
+Nordanby,City,Theft,undirected,1
+Nordanby,Råby,Theft,undirected,1
+Erikslund,Råby,Theft,undirected,1
+Erikslund,City,Theft,undirected,1
+Erikslund,Centrum,Theft,undirected,1
+Erikslund,Bäckby,Theft,undirected,1
+Erikslund,Jakobsberg,Theft,undirected,1
+Erikslund,VästeråsO,Theft,undirected,1
+Erikslund,Brottberga,Theft,undirected,1
+Erikslund,Vetterstorp,Theft,undirected,1
+Erikslund,Nordanby,Theft,undirected,1
+Vallby,Nordanby,Theft,undirected,1
+Vallby,Vetterstorp,Theft,undirected,1
+Vallby,Brottberga,Theft,undirected,1
+Vallby,VästeråsO,Theft,undirected,1
+Vallby,Jakobsberg,Theft,undirected,1
+Vallby,Bäckby,Theft,undirected,1
+Vallby,Centrum,Theft,undirected,1
+Vallby,City,Theft,undirected,1
+Vallby,Råby,Theft,undirected,1
+Vallby,Erikslund,Theft,undirected,1
+Oxbacken,Hemdal,Unlawful Threat,undirected,1
+Bjurhovda,Rocklunda,Vandalism,undirected,1
+Viksäng,Rocklunda,Vandalism,undirected,1
+Viksäng,Bjurhovda,Vandalism,undirected,1
+Hemdal,Bjurhovda,Vandalism,undirected,1
+Hemdal,Rocklunda,Vandalism,undirected,1
+Hemdal,Viksäng,Vandalism,undirected,1
+Malmaberg,VästeråsO,Violance,undirected,1
